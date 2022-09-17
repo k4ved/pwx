@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/MichaelThessel/pwx.svg)](https://travis-ci.org/MichaelThessel/pwx)
 [![Known Vulnerabilities](https://snyk.io/test/github/k4ved/pwx/badge.svg)]
-(https://snyk.io/test/github/{username}/{repo})
+(https://snyk.io/test/github/k4ved/pwx)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MichaelThessel/pwx?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 About
